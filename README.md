@@ -18,6 +18,7 @@ The processing engine of the pipeline, where PySpark is used to transform data. 
 Delta Lake
 An open-source storage layer built on top of ADLS that brings reliability to data lakes. Delta Lake provides ACID transactions, schema enforcement, schema evolution, and time travel, making data pipelines more scalable and production-ready.
 
+
 # Medallion Architecture :
 
 The Medallion Architecture is a layered approach to organizing data pipelines in Databricks:
